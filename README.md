@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Rpablo4
-- 👾 Graphic Designer and Enthusiast Developer
+- 👾 UI/Graphic Designer and Enthusiast Developer
 - 🌱 I’m currently learning java script
 <br>
 Language and Tools:
