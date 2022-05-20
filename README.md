@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Rpablo4
-- 👾 UI/Graphic Designer and Enthusiast Developer
-- 🌱 I’m currently learning java script
+- 👾 UI/Graphic Designer and FullStack Developer Jr
+- 🌱 Currently, I fervently study JAVA and Spring framework
 <br>
 Language and Tools:
 <div style="display: inline_block"><br>
@@ -11,6 +11,9 @@ Language and Tools:
   <img align="center" alt="Ruan-PS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg">
   <img align="center" alt="Ruan-css" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
   <img align="center" alt="Ruan-html" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg">
+  <img align="center" alt="Ruan-JAVA" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg")">    
+  <img align="center" alt="Ruan-Spring" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg")">
+  <img align="center" alt="Ruan-MySQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-plain.svg")">
 </div>
 <br>
 Contact me: 
