@@ -2,7 +2,7 @@
 - 👾 UI/Graphic Designer and FullStack Developer Jr
 - 🌱 Currently, I fervently study JAVA and Spring framework
 <br>
-Language and Tools:
+Languages and Tools:
 <div style="display: inline_block"><br>
   <img align="center" alt="Ruan-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Ruan-C" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg"">
