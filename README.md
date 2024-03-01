@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @Rpablo4
-- 👾 UI/Graphic Designer and FullStack Developer Jr
-- 🌱 Currently, I fervently study JAVA and Spring framework
-<br>
+- 👾 Java Software Developer
+
 Languages and Tools:
 <div style="display: inline_block"><br>
   <img align="center" alt="Ruan-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
