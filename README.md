@@ -12,7 +12,6 @@ Languages and Tools:
   <img align="center" alt="Ruan-html" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg">
   <img align="center" alt="Ruan-JAVA" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg")">    
   <img align="center" alt="Ruan-Spring" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg")">
-  <img align="center" alt="Ruan-MySQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-plain.svg")">
 </div>
 <br>
 Contact me: 
